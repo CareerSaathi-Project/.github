@@ -1,3 +1,5 @@
+![Frontend CI](https://github.com/CareerSaathi-Project/CareerSathi_frontend/actions/workflows/ci.yml/badge.svg)
+
 # CareerSaathi
 
 CareerSaathi is an AI-powered career preparation and interview simulation platform designed to help students, freshers, and professionals improve their interview performance through realistic mock interviews, intelligent feedback systems, analytics, and adaptive questioning.
